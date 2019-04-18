@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "783778529412",
+    "firebase_url": "https://fireapp-a40b3.firebaseio.com",
+    "project_id": "fireapp-a40b3",
+    "storage_bucket": "fireapp-a40b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783778529412:android:e2d6a68985bc93f6",
+        "android_client_info": {
+          "package_name": "com.mereso.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783778529412-5gnq6ep2omm7np8hccr3vt7ddvi3vvq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmMcZKYV9hVzs96-RUL0z6egdf8CT00iM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
